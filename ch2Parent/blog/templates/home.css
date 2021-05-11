@@ -1,0 +1,7 @@
+.accordion-button:not(.collapsed){
+    background-color: purple;
+    
+}
+#accordionFlushExample{
+    background-color: black;
+}
